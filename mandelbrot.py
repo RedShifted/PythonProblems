@@ -1,6 +1,6 @@
 # mandelbrot set by sdbonin
 
-from __future__ import division # make division not stupid
+from __future__ import division
 
 # import functions
 from scipy import zeros
